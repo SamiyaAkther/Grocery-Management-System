@@ -1,4 +1,4 @@
-# Grocery-Management-System
+
 #include<stdio.h>
 #include<string.h>
 
